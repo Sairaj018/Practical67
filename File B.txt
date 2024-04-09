@@ -1,2 +1,3 @@
 PKJBGVFDERT
 GitPractical Folder - Added stuff after cloning
+Changes performed from GitToday folder DFGHJ
